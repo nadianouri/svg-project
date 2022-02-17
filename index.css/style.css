@@ -15,11 +15,11 @@ body {
     stroke:black;
     stroke-width:25px;
 }
-.circle {
+.clock-circle {
     stroke: black; 
     fill: black;
 }
-.circle-line {
+.clock-line {
     stroke: white;
     fill: white;
     stroke-width: 2px;
