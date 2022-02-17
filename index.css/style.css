@@ -26,3 +26,10 @@ body {
     stroke-linejoin: round;
     stroke-linecap: round;
 }
+.house {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    left: 90px;
+    bottom: 90px;
+}
