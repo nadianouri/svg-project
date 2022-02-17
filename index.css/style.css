@@ -14,5 +14,15 @@ body {
     stroke-linecap:round;
     stroke:black;
     stroke-width:25px;
-
+}
+.circle {
+    stroke: black; 
+    fill: black;
+}
+.circle-line {
+    stroke: white;
+    fill: white;
+    stroke-width: 2px;
+    stroke-linejoin: round;
+    stroke-linecap: round;
 }
